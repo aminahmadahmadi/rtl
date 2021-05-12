@@ -1,6 +1,8 @@
 # rtl
 راست به چپ کردن وبسایت سرویس‌های خارجی
 
+---
+
 ### آموزش استایل برای اپلیکیشن اسلک:
 
 ۱- در اپ این کامند را اجرا کنید
@@ -30,7 +32,7 @@ div.c-message__reply_bar.c-message_kit__thread_replies {direction: ltr;}
 
 ### آموزش استایل برای نسخه وب اسلک:
 
-۱- اکستنشن stylebot را نصب کنید.  [مرورگر کروم](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha?hl=en)  |  [مرورگر فایرفاکس](https://addons.mozilla.org/en-US/firefox/addon/stylebot-web/)
+۱- اکستنشن [stylebot](https://github.com/ankit/stylebot) را نصب کنید.  [مرورگر کروم](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha?hl=en)  |  [مرورگر فایرفاکس](https://addons.mozilla.org/en-US/firefox/addon/stylebot-web/)
 
 ۲- با کلیک بر روی شکل اکستنشن گزینه `options...` را باز کنید
 
