@@ -2,9 +2,12 @@
 راست به چپ کردن وبسایت سرویس‌های خارجی
 
 ### آموزش استایل برای اپلیکیشن اسلک:
+
 ۱- در اپ این کامند را اجرا کنید
 `/slackdevtools`
+
 ۲- بر روی `<head>` راست کلیک کرده و گزینه `Edit as HTML` را انتخاب کنید
+
 ۳- به انتهای باکس برید و قبل از `</head>` متن زیر را paste کنید.
 
 ```css
@@ -20,16 +23,24 @@ div.c-message__reply_bar.c-message_kit__thread_replies {direction: ltr;}
 .c-message_kit__gutter__left{margin-left: 8px;margin-right: 0;}
 .c-message_kit__gutter__right{padding-right: 10px;}</style>
 ```
+
 ۴- با کلیک خارج از باکس تغییرات را سیو کنید
+
 ۵- درصورت بازگشت اسلک به حالت اولیه این مراحل را تکرار کنید
 
 ### آموزش استایل برای نسخه وب اسلک:
+
 ۱- اکستنشن stylebot را نصب کنید.  [مرورگر کروم](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha?hl=en)  |  [مرورگر فایرفاکس](https://addons.mozilla.org/en-US/firefox/addon/stylebot-web/)
+
 ۲- با کلیک بر روی شکل اکستنشن گزینه `options...` را باز کنید
+
 ۳- از تب `styles` بر روی گزینه `add a new styles` کلیک کنید.
+
 ۴- در بخش url لینک زیر را وارد کنید
 https://app.slack.com/
+
 ۵- و در ادیتور موجود کد زیر را paste کنید
+
 ```css
 [lang] .p-rich_text_block,.ql-editor, .c-pillow_file__post__content, .c-message_kit__text, .c-dialog, .c-link, input, .c-select, .p-block-kit-select_options,.p-block_kit_renderer__block_wrapper, div.c-message_kit__gutter__right  {line-height:1.7;font-family: "IRANYekan", "Tahoma";text-align: right;direction: rtl;}
 b,strong, .c-pillow_file__title {font-family: "IRANYekan ExtraBold", "Tahoma";}
@@ -43,4 +54,5 @@ div.c-message__reply_bar.c-message_kit__thread_replies {direction: ltr;}
 .c-message_kit__gutter__left{margin-left: 8px;margin-right: 0;}
 .c-message_kit__gutter__right{padding-right: 10px;}
 ```
+
 ۶- گزینه save را بزنید و تب اسلک را رفرش کنید.
