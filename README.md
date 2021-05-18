@@ -25,6 +25,7 @@ div.c-message__reply_bar.c-message_kit__thread_replies {direction: ltr;}
 .c-message_kit__gutter{direction: rtl;padding-top: 15px;}
 .c-message_kit__gutter__left{margin-left: 8px;margin-right: 0;}
 .c-message_kit__gutter__right{padding-right: 10px !important;}
+.slack-list-item-checkbox{margin-right: 0; margin-left: 6px;}
 </style>
 ```
 
@@ -57,6 +58,7 @@ div.c-message__reply_bar.c-message_kit__thread_replies {direction: ltr;}
 .c-message_kit__gutter{direction: rtl;padding-top: 15px;}
 .c-message_kit__gutter__left{margin-left: 8px;margin-right: 0;}
 .c-message_kit__gutter__right{padding-right: 10px;}
+.slack-list-item-checkbox{margin-right: 0; margin-left: 6px;}
 ```
 
 ۶- گزینه save را بزنید و تب اسلک را رفرش کنید.
