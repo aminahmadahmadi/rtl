@@ -5,7 +5,7 @@
 
   ---
 
-  ### آموزش استایل برای اپلیکیشن اسلک:
+  ## آموزش استایل برای اپلیکیشن اسلک:
 
   ۱- در اپ این کامند را اجرا کنید
   `/slackdevtools`
@@ -15,6 +15,7 @@
   ۳- به انتهای باکس برید و قبل از `</head>` متن زیر را paste کنید.
 
   <div  dir="ltr" align="left">
+    
     ```css
     <style type="text/css">
     [lang] .p-rich_text_block,.ql-editor, .c-pillow_file__post__content, .c-message_kit__text, .c-dialog, .c-link, input, .c-select, .p-block-kit-select_options,.p-block_kit_renderer__block_wrapper, div.c-message_kit__gutter__right  {line-height:1.7;font-family: "IRANYekan", "Tahoma";text-align: right;direction: rtl;}
@@ -31,12 +32,15 @@
     .slack-list-item-checkbox{margin-right: 0; margin-left: 6px;}
     </style>
     ```
+    
   </div>
 
   ۴- با کلیک خارج از باکس تغییرات را سیو کنید
 
   ۵- درصورت بازگشت اسلک به حالت اولیه این مراحل را تکرار کنید
 
+  ---
+  
   ### آموزش استایل برای نسخه وب اسلک:
 
   ۱- اکستنشن [stylebot](https://github.com/ankit/stylebot) را نصب کنید.  [مرورگر کروم](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha?hl=en)  |  [مرورگر فایرفاکس](https://addons.mozilla.org/en-US/firefox/addon/stylebot-web/)
@@ -67,6 +71,7 @@
     .c-message_kit__gutter__right{padding-right: 10px;}
     .slack-list-item-checkbox{margin-right: 0; margin-left: 6px;}
     ```
+    
   </div>
   ۶- گزینه save را بزنید و تب اسلک را رفرش کنید.
 </div>
