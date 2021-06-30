@@ -1,3 +1,4 @@
+<div dir="auto">
 # rtl
 راست به چپ کردن وبسایت سرویس‌های خارجی
 
@@ -62,3 +63,4 @@ div.c-message__reply_bar.c-message_kit__thread_replies {direction: ltr;}
 ```
 
 ۶- گزینه save را بزنید و تب اسلک را رفرش کنید.
+</div>
