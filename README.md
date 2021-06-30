@@ -1,4 +1,4 @@
-<div dir="auto">
+<div dir="rtl" align="right">
 # rtl
 راست به چپ کردن وبسایت سرویس‌های خارجی
 
