@@ -41,7 +41,7 @@
 
   ---
   
-  ### آموزش استایل برای نسخه وب اسلک:
+  ## آموزش استایل برای نسخه وب اسلک:
 
   ۱- اکستنشن [stylebot](https://github.com/ankit/stylebot) را نصب کنید.  [مرورگر کروم](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha?hl=en)  |  [مرورگر فایرفاکس](https://addons.mozilla.org/en-US/firefox/addon/stylebot-web/)
 
