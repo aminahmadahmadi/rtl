@@ -30,6 +30,7 @@ div.c-message__reply_bar.c-message_kit__thread_replies {direction: ltr;}
 .slack-list-item-checkbox{margin-right: 0; margin-left: 6px;}
 li{margin-right: 32px !important;margin-left: 0px !important;}
 li:before {margin-right: -28px !important;margin-left: 6px !important;}
+.c-pillow_file__description{margin-right: 10px !important;}
 </style>
 ```
 
@@ -69,6 +70,7 @@ div.c-message__reply_bar.c-message_kit__thread_replies {direction: ltr;}
 .slack-list-item-checkbox{margin-right: 0; margin-left: 6px;}
 li{margin-right: 32px !important;margin-left: 0px !important;}
 li:before {margin-right: -28px !important;margin-left: 6px !important;}
+.c-pillow_file__description{margin-right: 10px !important;}
 ```
 
 <div dir="auto" align="right">
